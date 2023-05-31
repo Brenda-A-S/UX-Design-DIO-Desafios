@@ -16,4 +16,8 @@
 
 # Desafio 3 - Criação de um protótipo navegável
 
+[Link para o figma](https://www.figma.com/file/CbNFhSvCkCUJLnsWz6mtvj/Untitled?type=design&node-id=5%3A234&t=MXXBPsUfiCNzjneB-1)
+
+![prototipo](https://github.com/Brenda-A-S/UX-Design-DIO-Desafios/assets/69852246/9d3d9606-f5cb-4983-be79-20ccf564a75f)
+
 # Desafio 4 - Protótipo profissional
