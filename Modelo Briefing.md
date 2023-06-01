@@ -1,122 +1,137 @@
-Briefing – Desenvolvimento de Site
+# Briefing â€“ Desenvolvimento de Site
 
-1 – Sobre o negócio
+### Sobre o negÃ³cio
 
 Qual o nome do cliente?
+
 R: Brenda, eu mesma.
 
-Qual o ramo de atuação?
+Qual o ramo de atuaÃ§Ã£o?
+
 R: Desenvolvimento Front-End.
 
 Tempo de mercado:
-( x ) Até um ano
-(  ) 2 anos
-(  ) 3 anos
-(  ) 4 anos
-(  ) mais de 5 anos
-(  ) mais de 10 anos
+
+* ( x ) AtÃ© um ano
+* (  ) 2 anos
+* (  ) 3 anos
+* (  ) 4 anos
+* (  ) mais de 5 anos
+* (  ) mais de 10 anos
 
 
-Quantos funcionários atualmente?
-( x ) Só eu trabalho aqui
-(  ) De 2 a 5 pessoas
-(  ) De 6 a 10 pessoas
-(  ) De 11 a 20 pessoas
-(  ) De 20 a 50 pessoas
-(  ) De 50 a 100 pessoas
+Quantos funcionÃ¡rios atualmente?
+* ( x ) SÃ³ eu trabalho aqui
+* (  ) De 2 a 5 pessoas
+* (  ) De 6 a 10 pessoas
+* (  ) De 11 a 20 pessoas
+* (  ) De 20 a 50 pessoas
+* (  ) De 50 a 100 pessoas
 
-Que tipo de produtos/serviços sua empresa oferece?
+Que tipo de produtos/serviÃ§os sua empresa oferece?
+
 R: Desenvolvimento Front-End, UX/UI Design.
 
-O que diferencia você de seus concorrentes?
-( x ) Preço
-(  ) Qualidade
-(  ) Serviços
-(  ) Outro: Fique à vontade para adicionar informações...
-Qual a missão, visão e valores da empresa?
-R: Missão:
-Oferecer soluções inovadoras e de alta qualidade em desenvolvimento front-end, ajudando os clientes a criar experiências digitais envolventes e funcionais.
-Visão:
-Ser reconhecida como uma das melhores profissionais freelancers de desenvolvimento front-end, estabelecendo parcerias duradouras com clientes de diversos setores, e contribuir para o avanço da web através de projetos inovadores e bem executados.
+O que diferencia vocÃª de seus concorrentes?
+* ( x ) PreÃ§o
+* ( x ) Qualidade
+* (  ) ServiÃ§os
+* (  ) Outro: Fique Ã  vontade para adicionar informaÃ§Ãµes...
+
+Qual a missÃ£o, visÃ£o e valores da empresa?
+
+R: MissÃ£o:
+
+Oferecer soluÃ§Ãµes inovadoras e de alta qualidade em desenvolvimento front-end, ajudando os clientes a criar experiÃªncias digitais envolventes e funcionais.
+
+VisÃ£o:
+Ser reconhecida como uma das melhores profissionais freelancers de desenvolvimento front-end, estabelecendo parcerias duradouras com clientes de diversos setores, e contribuir para o avanÃ§o da web atravÃ©s de projetos inovadores e bem executados.
+
 Valores:
-Excelência: Buscar sempre a excelência em todas as etapas do processo de desenvolvimento front-end, desde a concepção até a implementação, garantindo que cada projeto seja entregue com qualidade superior.
-Inovação: Estar constantemente atualizado com as mais recentes tecnologias, tendências e práticas de desenvolvimento front-end, para fornecer soluções inovadoras e criativas aos clientes.
-Colaboração: Valorizar e promover uma cultura de colaboração, trabalhando em estreita parceria com os clientes e outros profissionais envolvidos no projeto, a fim de alcançar os melhores resultados e atender às expectativas.
-Compromisso com o cliente: Colocar o cliente em primeiro lugar, entendendo suas necessidades e metas, e fornecer um atendimento personalizado e eficiente. Entregar projetos no prazo, dentro do orçamento e superar as expectativas dos clientes.
-Ética profissional: Agir com integridade, honestidade e transparência em todas as interações profissionais. Respeitar a confidencialidade das informações do cliente e cumprir rigorosamente os padrões éticos e profissionais do setor.
+* ExcelÃªncia: Buscar sempre a excelÃªncia em todas as etapas do processo de desenvolvimento front-end, desde a concepÃ§Ã£o atÃ© a implementaÃ§Ã£o, garantindo que cada projeto seja entregue com qualidade superior.
+* InovaÃ§Ã£o: Estar constantemente atualizado com as mais recentes tecnologias, tendÃªncias e prÃ¡ticas de desenvolvimento front-end, para fornecer soluÃ§Ãµes inovadoras e criativas aos clientes.
+* ColaboraÃ§Ã£o: Valorizar e promover uma cultura de colaboraÃ§Ã£o, trabalhando em estreita parceria com os clientes e outros profissionais envolvidos no projeto, a fim de alcanÃ§ar os melhores resultados e atender Ã s expectativas.
+* Compromisso com o cliente: Colocar o cliente em primeiro lugar, entendendo suas necessidades e metas, e fornecer um atendimento personalizado e eficiente. Entregar projetos no prazo, dentro do orÃ§amento e superar as expectativas dos clientes.
+* Ã‰tica profissional: Agir com integridade, honestidade e transparÃªncia em todas as interaÃ§Ãµes profissionais. Respeitar a confidencialidade das informaÃ§Ãµes do cliente e cumprir rigorosamente os padrÃµes Ã©ticos e profissionais do setor.
 
-2 – Público Alvo
+2 â€“ PÃºblico Alvo
 
-Em porcentagens (%) de homens e mulheres, qual seu público? Ex: 60% homens e 40% mulheres
-R: Sem público alvo definido.
+Em porcentagens (%) de homens e mulheres, qual seu pÃºblico? Ex: 60% homens e 40% mulheres
 
-3 – Sobre o site
-Qual o endereço do site atual?
+R: Recrutadores.
+
+### Sobre o site
+
+Qual o endereÃ§o do site atual?
+
 R: Nenhum
 
-Quanto você pretende investir no projeto?
-( x ) De 3 a 5 mil
-(  ) De 5 a 10 mil
-(  ) De 10 a 20 mil 
-(  ) De 20 a 50 mil
-(  ) De 50 a 100 mil
-(  ) Acima de 100 mil
-(  ) Não sei
+Quanto vocÃª pretende investir no projeto?
+* ( x ) De 3 a 5 mil
+* (  ) De 5 a 10 mil
+* (  ) De 10 a 20 mil 
+* (  ) De 20 a 50 mil
+* (  ) De 50 a 100 mil
+* (  ) Acima de 100 mil
+* (  ) NÃ£o sei
+
 Qual o objetivo do site?
-(  ) Informar
-(  ) Vender
-(  ) Prestar suporte
-( x ) Outro: Divulgar meu trabalho
+* (  ) Informar
+* (  ) Vender
+* (  ) Prestar suporte
+* ( x ) Outro: Divulgar meu trabalho
 
-Liste até 3 websites que você considere interessantes, informando o que especificamente lhe agrada neles.
-R: Google(clean e fácil de usar), instagram(interface bonita) e discord(cores bem chamativas/fortes, imagens legais e informação organizada)
-Que tipo de site você precisa?
-(  ) Site institucional
-(  ) E-commerce (Loja Virtual)
-(  ) Blog pessoal
-( x ) Landing Page (Página de vendas)
-(  ) Hotsite de campanha
-(  ) Site político
+Liste atÃ© 3 websites que vocÃª considere interessantes, informando o que especificamente lhe agrada neles.
 
-Qual a aparência da identidade visual (design) esperada?
-(  ) Tradicional
-(  ) Artístico
-(  ) Tecnológico
-(  ) Moderno
-( x ) Clean
-(  ) Outro: Fique à vontade para adicionar informações...
+R: Google(clean e fÃ¡cil de usar), instagram(interface bonita) e discord(cores bem chamativas/fortes, imagens legais e informaÃ§Ã£o organizada)
 
-Quais páginas você imagina para seu site?
+Que tipo de site vocÃª precisa?
+* (  ) Site institucional
+* (  ) E-commerce (Loja Virtual)
+* (  ) Blog pessoal
+* ( x ) Landing Page (PÃ¡gina de vendas)
+* (  ) Hotsite de campanha
+* (  ) Site polÃ­tico
 
-( x ) Página inicial
-( x ) Página sobre
-(  ) Páginas de serviços
-(  ) Página de orçamento
-( x ) Página de contato
-(  ) Página de notícias
-(  ) Blog
-(  ) Relação de produtos
-(  ) Páginas de serviços
-(  ) Galerias de fotos e vídeos
-(  ) Página com formulários especiais
-(  ) Área do cliente com funcionalidades específicas
-(  ) Página de perguntas frequentes (FAQ)
-( x ) Outro: Página de projetos
+Qual a aparÃªncia da identidade visual (design) esperada?
+* (  ) Tradicional
+* (  ) ArtÃ­stico
+* (  ) TecnolÃ³gico
+* (  ) Moderno
+* ( x ) Clean
+* (  ) Outro: Fique Ã  vontade para adicionar informaÃ§Ãµes...
 
-Você sabe quais recursos você precisa?
-Só marque se você souber.
+Quais pÃ¡ginas vocÃª imagina para seu site?
 
-(  ) Chat Online
-(  ) Multi-idiomas
-(  ) Sistema de ticket / suporte
-(  ) Formulários especiais
-(  ) Gerenciador de conteúdo
-(  ) Integração com Google Maps
+* ( x ) PÃ¡gina inicial
+* ( x ) PÃ¡gina sobre
+* (  ) PÃ¡ginas de serviÃ§os
+* (  ) PÃ¡gina de orÃ§amento
+* ( x ) PÃ¡gina de contato
+* (  ) PÃ¡gina de notÃ­cias
+* (  ) Blog
+* (  ) RelaÃ§Ã£o de produtos
+* (  ) PÃ¡ginas de serviÃ§os
+* (  ) Galerias de fotos e vÃ­deos
+* (  ) PÃ¡gina com formulÃ¡rios especiais
+* (  ) Ãrea do cliente com funcionalidades especÃ­ficas
+* (  ) PÃ¡gina de perguntas frequentes (FAQ)
+* ( x ) Outro: PÃ¡gina de projetos
 
-A empresa já possui uma marca?
-(  ) Sim, tenho ela em JPEG
-(  ) Sim, tenho ela em vetor (.CDR, .AI ou .EPS)
-( x ) Ainda não tenho um logotipo
+VocÃª sabe quais recursos vocÃª precisa?
+SÃ³ marque se vocÃª souber.
+
+* (  ) Chat Online
+* (  ) Multi-idiomas
+* (  ) Sistema de ticket / suporte
+* (  ) FormulÃ¡rios especiais
+* (  ) Gerenciador de conteÃºdo
+* (  ) IntegraÃ§Ã£o com Google Maps
+
+A empresa jÃ¡ possui uma marca?
+* (  ) Sim, tenho ela em JPEG
+* (  ) Sim, tenho ela em vetor (.CDR, .AI ou .EPS)
+* ( x ) Ainda nÃ£o tenho um logotipo
 
 
 
