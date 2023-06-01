@@ -22,6 +22,8 @@
 
 # Desafio 4 - Protótipo profissional
 
+[Link para o mockup](https://www.figma.com/proto/ugBFU1Vf2KwnbQqS2Gc6Py/Meu-Portfolio?type=design&node-id=38-192&scaling=min-zoom&page-id=6%3A21&starting-point-node-id=38%3A192)
+
 [Link para o figma](https://www.figma.com/file/ugBFU1Vf2KwnbQqS2Gc6Py/Meu-Portfolio?type=design&node-id=6%3A21&t=h86EtsSXYvR6TDJU-1)
 
 ![wireframes](https://github.com/Brenda-A-S/UX-Design-DIO-Desafios/assets/69852246/5afc0746-966e-4287-97a7-fc2da071dc4d)
