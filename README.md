@@ -21,3 +21,5 @@
 ![prototipo](https://github.com/Brenda-A-S/UX-Design-DIO-Desafios/assets/69852246/9d3d9606-f5cb-4983-be79-20ccf564a75f)
 
 # Desafio 4 - Protótipo profissional
+
+[Link para o figma](https://www.figma.com/file/ugBFU1Vf2KwnbQqS2Gc6Py/Meu-Portfolio?type=design&node-id=6%3A21&t=h86EtsSXYvR6TDJU-1)
